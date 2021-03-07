@@ -4,7 +4,7 @@
     "description": "Dynamic scheduler for laravel",
     "type": "library",
     "require": {
-        "laravel/framework": "^5.5",
+        "laravel/framework": ">=5.5",
         "opis/closure": "^3.0",
         "ext-intl": "*"
     },
