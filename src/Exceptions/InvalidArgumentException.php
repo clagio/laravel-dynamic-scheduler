@@ -1,5 +1,5 @@
 <?php
-namespace BEDeZign\DynamicScheduler\Execptions;
+namespace BEDeZign\DynamicScheduler\Exception;
 
 class InvalidArgumentException extends \InvalidArgumentException
 {
